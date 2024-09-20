@@ -1,0 +1,23 @@
+.input_holder {
+    border-color: lightskyblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 9, 0.5);
+    transition: 3ms;
+    border-radius: 5px;
+    padding: 2px 16px;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+  }
+  
+  .submit_button {
+    background-color: lightskyblue;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 9, 0.5);
+    transition: 3ms;
+    border-radius: 5px;
+    padding: 2px 16px;
+    margin-top: 2%;
+    margin-left: 2%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+  }
