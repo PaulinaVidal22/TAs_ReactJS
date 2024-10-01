@@ -3,7 +3,7 @@ import classes from "/src/components/taskForm/taskForm.module.css";
 
 export default function TaskForm({ addTask }) {
   const [inputValue, setInputValue] = useState("");
-
+  
   const handleInputChange = (e) => {
     setInputValue(e.target.value);
   };
