@@ -1,6 +1,8 @@
 import { useState} from "react";
 import classes from "/src/components/counter/counter.module.css";
 
+
+
 export const Counter = () => {
   const [count, setCount] = useState(0);
 
@@ -11,6 +13,7 @@ export const Counter = () => {
       setCount(count + 1);
     }
   };
+
 
   return (
     <div className="App">
